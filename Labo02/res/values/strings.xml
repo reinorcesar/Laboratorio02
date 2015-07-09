@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Labo02</string>
+    <string name="action_settings">Settings</string>
+    <string name="bemvindo">Bem Vindo ao Android</string>
+    <string name="des">Desenvolvido pelo Reinor</string>
+    <string name="bt1">Ok</string>
+    <string name="bt2">Cancelar</string>
+
+</resources>
